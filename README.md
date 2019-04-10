@@ -5,7 +5,7 @@
 
 The website and documentation for the [Eleventy static site generator](https://github.com/11ty/eleventy/).
 
-## Running Locally
+## Running locally
 
 ```
 npm install
